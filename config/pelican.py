@@ -28,5 +28,9 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['data']
+
+DATA_WB_KEY = private.DATA_WB_KEY
 GOOGLE_EMAIL = private.GOOGLE_EMAIL
 GOOGLE_PW = private.GOOGLE_PW
