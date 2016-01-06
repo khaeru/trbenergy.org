@@ -1,0 +1,3 @@
+# See README.md
+GOOGLE_EMAIL = 'example@gmail.com'
+GOOGLE_PW = 'password'
