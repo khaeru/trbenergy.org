@@ -1,3 +1,4 @@
 # See README.md
+DATA_WB_KEY = '---'
 GOOGLE_EMAIL = 'example@gmail.com'
 GOOGLE_PW = 'password'

@@ -19,7 +19,7 @@ def t(text):
 
 # Connect to the spreadsheet containing the presentations data
 gc = gspread.login(os.environ['GOOGLE_EMAIL'], os.environ['GOOGLE_PW'])
-sh = gc.open_by_key('1QqB601hvwpJ2pvHixzS2mdl8ADcAvSCLFbjjGlNwSoc')
+sh = gc.open_by_key(os.environ['DATA_WB_KEY'])
 
 # Committee members
 template = t("""title: 2012 Transportation Energy Committee
