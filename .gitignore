@@ -1,5 +1,6 @@
 *.pid
 __pycache__
 cache
+config/private.py
 content/pdf
 output
