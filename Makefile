@@ -1,12 +1,12 @@
-PY?=python3
+PY?=python3.5
 PELICAN?=pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
-CONFFILE=$(BASEDIR)/config/pelican.py
-PUBLISHCONF=$(BASEDIR)/config/publish.py
+CONFFILE=$(BASEDIR)/config.py
+PUBLISHCONF=$(BASEDIR)/publish.py
 
 FTP_HOST=localhost
 FTP_USER=anonymous
