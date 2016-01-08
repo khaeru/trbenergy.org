@@ -12,12 +12,12 @@
 {% endif %}
   <tr>
     <td style="white-space:nowrap">
-    {% if p.Slides == 'Y' and p.Filenames is string %}
-      {% for fn in p.Filenames.split(';') %}
+    {% if p.Slides == 'Y' and p.URLs is string %}
+      {% for file_url in p.URLs.split(';') %}
         {% if loop.first %}
-          <a href="/pdf/{{fn}}">{{ p.Number }}</a>
+          <a href="{{file_url}}">{{ p.Number }}</a>
         {% else %}
-          (<a href="/pdf/{{fn}}">{{ loop.index }}</a>)
+          (<a href="{{file_url}}">{{ loop.index }}</a>)
         {% endif %}
       {% endfor %}
     {% else %}

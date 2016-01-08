@@ -6,9 +6,10 @@
   </tr>
 {% for n, member in members.iterrows() %}
   <tr>
-    <td>{{member.Title}} {{member.Name}}</td>
-    <td>{{member.Organization}}</td>
-    <td>{{member.Status}}</td>
+    <td>{{ member.Title if member.Title is string }}
+      {{ member.Name }}</td>
+    <td>{{ member.Organization }}</td>
+    <td>{{ member.Status }}</td>
   </tr>
 {% endfor %}
 </table>
