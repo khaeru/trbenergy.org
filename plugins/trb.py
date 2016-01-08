@@ -2,7 +2,6 @@
 import os
 
 import pandas as pd
-from logging import warn
 from pelican import signals
 from pelican.generators import CachingGenerator
 
@@ -55,19 +54,23 @@ class TRBGenerator(CachingGenerator):
 
         template = self.get_template('page')
 
+        print('TRB plugin: committee ', end='')
         for year, members in self.data['members'].groupby('Year'):
-            fn = os.path.join('pages', 'members-%d.html' % year)
+            fn = os.path.join('members', str(year), 'index.html')
             page = _pseudo_page('members', year=year, members=members)
             writer.write_file(fn, template, self.context, page=page,
                               relative_urls=self.settings['RELATIVE_URLS'])
-            print('TRB plugin: wrote %s' % fn)
+            print(year, end=' ')
+        print('.')
 
+        print('TRB plugin: presentations ', end='')
         for year, p in self.data['all'].groupby('Year'):
-            fn = os.path.join('pages', 'presentations-%d.html' % year)
+            fn = os.path.join('presentations', str(year),  'index.html')
             page = _pseudo_page('presentations', year=year, presentations=p)
             writer.write_file(fn, template, self.context, page=page,
                               relative_urls=self.settings['RELATIVE_URLS'])
-            print('TRB plugin: wrote %s' % fn)
+            print(year, end=' ')
+        print('.')
 
 
 def callback(pelican):
