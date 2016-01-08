@@ -8,9 +8,9 @@ sys.path.append(os.curdir)
 import plugins.trb
 import private as private_settings
 
-AUTHOR = 'TRB/ADC70'
+AUTHOR = 'TRB ADC70'
 SITENAME = 'Transportation Energy Committee'
-SITEURL = ''
+SITEURL = 'http://trbenergy.org'
 
 PATH = 'content'
 
