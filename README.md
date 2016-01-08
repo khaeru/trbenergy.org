@@ -19,6 +19,8 @@ The plugin is controlled by the *TRB* setting in `private.py`. To protect privat
 - **data_path**: path relative to the root directory containing data in the files `members.tsv`, `presentations.tsv` and `sessions.tsv`.
 - **pdf_urls**: either 'local' or 'cloud'.
 
+Create a symlink named `themes` to a directory containing the [pelican-themes](https://github.com/getpelican/pelican-themes) repository.
+
 ## License
 Copyright 2015, Paul Natsuo Kishimoto <<mail@paul.kishimoto.name>>
 

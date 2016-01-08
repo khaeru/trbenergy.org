@@ -1,6 +1,7 @@
 *.pid
 __pycache__
 cache
+data
 private.py
-content/pdf
 output
+themes
