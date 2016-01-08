@@ -19,7 +19,10 @@ TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
 
 THEME = 'themes/pelican-bootstrap3'
-# DISPLAY_PAGES_ON_MENU = T
+DISPLAY_PAGES_ON_MENU = True
+
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = '{slug}/index.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -32,7 +35,5 @@ DEFAULT_PAGINATION = False
 # RELATIVE_URLS = True
 
 # ADC70 settings
-
 PLUGINS = [plugins.trb]
 TRB = private_settings.TRB
-# STATIC_PATHS = ['pdf']
