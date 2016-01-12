@@ -1,5 +1,6 @@
 title: Fuel cycles studies (2003)
-menulabel: Fuel Cycles
+slug: fuel-cycles
+status: hidden
 
 - [Comparing Cost Estimates for U.S. Fuel Economy Improvement by Advanced Electric Drive Vehicles](https://db.tt/1s8pGUV2)<br/>
   **Danilo J. Santini, A.D. Vyas, J. Moore and Feng An**
