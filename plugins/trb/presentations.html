@@ -31,5 +31,10 @@
   </tr>
 {% endfor %}
 </table>
-<span style="float:right"><a href="#top">⇱ back to top</a></span>
+{% if not loop.last %}
+<span style="float:right">
+  <i class="fa fa-arrow-up"></i>
+  <a href="#">Back to top</a>
+</span>
+{% endif %}
 {% endfor %}
