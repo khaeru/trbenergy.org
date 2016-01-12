@@ -14,7 +14,7 @@ The plugin is controlled by the *TRB* setting in `private.py`. To protect privat
 
 *TRB* is a Python `dict` with the following keys:
 - **data_source**: either 'google_drive' or 'csv'. If 'google_drive', the [`gspread`](https://github.com/burnash/gspread) package must be installed to access Google Drive, and *data_auth* and *google_drive_key* must be set. If 'csv', *data_path* must be set.
-- **data_auth**: a (username, password) tuple used to authenticate to Google Drive.
+- **data_auth**: the location of a JSON file containing Google Drive OAuth2 credentials.
 - **google_drive_key**: a 44-character string specifying the key or identifier of the Google Drive spreadsheet containing the data.
 - **data_path**: path relative to the root directory containing data in the files `members.tsv`, `presentations.tsv` and `sessions.tsv`.
 - **pdf_urls**: either 'local' or 'cloud'.

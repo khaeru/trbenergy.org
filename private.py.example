@@ -1,9 +1,13 @@
 # See README.md
-TRB_DATA = {
-  'source': 'google',
-  'auth_email': 'example@gmail.com',
-  'auth_password': 'password',
-  'document': '---',
-  }
+# Data from Google Drive
+TRB = {
+    'data_source': 'google_drive',
+    'data_auth': 'credentials.json',
+    'google_drive_key': 'a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1',
+    }
 
-TRB_DATA = {'source': 'tsv'}
+# Data from local files
+TRB = {
+    'data_source': 'tsv',
+    'data_path': 'data',
+    }

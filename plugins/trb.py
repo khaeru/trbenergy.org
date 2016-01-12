@@ -7,8 +7,8 @@ from pelican.generators import CachingGenerator
 
 
 PAGE_TITLES = {
-    'members': '%d Transportation Energy Committee',
-    'presentations': '%d Presentations',
+    'members': '{year} Transportation Energy Committee',
+    'presentations': '{year} Presentations',
     }
 
 
@@ -23,11 +23,17 @@ class TRBGenerator(CachingGenerator):
         tables = ['members', 'sessions', 'presentations']
         if settings['data_source'] == 'google_drive':
             # Connect to the spreadsheet containing the presentations data
+            import json
             import gspread
-            conn = gspread.login(*settings['data_auth'])
+            from oauth2client.client import SignedJwtAssertionCredentials
+            json_key = json.load(open(settings['data_auth']))
+            credentials = SignedJwtAssertionCredentials(
+                json_key['client_email'], json_key['private_key'].encode(),
+                ['https://spreadsheets.google.com/feeds'])
+            conn = gspread.authorize(credentials)
             workbook = conn.open_by_key(settings['google_drive_key'])
             for t in tables:
-                tmp = workbook.worksheet(t).get_all_values()
+                tmp = workbook.worksheet(t.title()).get_all_values()
                 data[t] = pd.DataFrame(tmp[1:], columns=tmp[0])
         elif settings['data_source'] == 'tsv':
             # Read from individual TSV files
@@ -48,7 +54,7 @@ class TRBGenerator(CachingGenerator):
             localcontext = self.context.copy()
             localcontext.update(kwargs)
             return {
-                'title': PAGE_TITLES[type] % kwargs['year'],
+                'title': PAGE_TITLES[type].format(**kwargs),
                 'content': self.get_template(type).render(localcontext),
                 }
 
