@@ -7,11 +7,32 @@ ADC70 is the Transportation Energy Committee of the [Transportation Research Boa
 
 ADC70 is tasked to consider energy efficiency, use and policy in passenger and freight transportation; resulting impacts on energy consumption, energy security and the environment; greenhouse gas emissions; and related public concerns.
 
+### Section & subcommittees
+
+ADC70 is within the *ADC00* Energy & Environment section of the *AD000* Planning & Environment group. It has several subcommittees; some of these are joint with other committees:
+
+- **ADC70(1)** International Aspects of Transportation Energy.
+    - Chairs: [Lew Fulton](mailto:lmfulton@ucdavis.edu), [Drew Kodjak](mailto:drew@theicct.org).
+- **ADC70(2)** Climate Change
+    - A joint subcommittee with [ADC80 Alternative Transportation Fuels & Technologies](http://www.trb.org/ADC80/ADC80.aspx) and [ADD40 Transportation & Sustainability](http://www.trb.org/ADD40/ADD40.aspx).
+    - Chairs: [Rich Baldauf](mailto:Baldauf.Richard@epa.gov), [Adam Millard-Ball](mailto:adammb@ucsc.edu).
+- **ADC70(3)** Energy & Demand Implications of Connected & Automated Vehicles
+    - A joint subcommittee with [AHB30 Vehicle-Highway Automation
+](http://www.trb.org/AHB30/AHB30.aspx).
+    - Chair: [Don MacKenzie](mailto:dwhm@uw.edu).
+
 ## Presentations & documents
 
-Please [**upload**](https://www.dropbox.com/request/aVLwOWNZukR00zzxZNO2) your presentation slides, posters and handouts from the 2016 Annual Meeting!
+Please [**upload**](https://www.dropbox.com/request/DQFNEDy3jaAWCjTXGAxh) your presentation slides, posters and handouts from the 2017 Annual Meeting!
 
-### Annual Meetings
+### 2017 Annual Meeting
+- [Presentation slides](http://amonline.trb.org/2017-subject-index) — select "Energy".
+- ADC70 [meeting agenda](https://www.dropbox.com/s/nhfi0uwp9zu2dbq/2017%20ADC70%20agenda.pdf?dl=0)
+    - ADC70(2) [meeting agenda](https://www.dropbox.com/s/l3dsrxkigy9hnb7/2017%20ADC70%282%29%20agenda.pdf?dl=0)
+
+### Previous Annual Meetings
+[2016](http://amonline.trb.org/2016-subject-index) —
+[2015](http://amonline.trb.org/2015-subject-index) —
 [2014](/presentations/2014) —
 [2013](/presentations/2013) —
 [2012](/presentations/2012) —
@@ -25,17 +46,17 @@ Please [**upload**](https://www.dropbox.com/request/aVLwOWNZukR00zzxZNO2) your p
 [2004](/presentations/2004) —
 [2003](/presentations/2003)
 
-Presentation slides and posters are organized by session number. In some years, documents are available from meetings of the *ADC70* committee, the Subcommittee on International Aspects of Transportation Energy (*IATES*), and/or the Climate Change Joint Subcommittee (*CCJS*).
+Presentation slides and posters are organized by session number. In some years, documents are also available from meetings of ADC70 and its subcommittees.
 
 ### Other meetings & documents
 - [2010 Environment & Energy Conference](/2010-enviro-energy-conf)
-- Asilomar [2013](http://its.ucdavis.edu/news-and-events/conferences-2/asilomar-conference-publications/2013-asilomar-biennial-conference/), [2007](http://its.ucdavis.edu/news-and-events/conferences-2/asilomar-conference-publications/2007-asilomar/) →`its.ucdavis.edu`
+- Asilomar [2015](https://its.ucdavis.edu/news-and-events/conferences-2/asilomar-conference-publications/2015-asilomar-conference/), [2013](http://its.ucdavis.edu/news-and-events/conferences-2/asilomar-conference-publications/2013-asilomar-biennial-conference/), [2007](http://its.ucdavis.edu/news-and-events/conferences-2/asilomar-conference-publications/2007-asilomar/) →`its.ucdavis.edu`
 - 2003: [Asilomar proposal](https://db.tt/pWOVzxwB) — [fuel cycles studies](/fuel-cycles) — ["big issues" policy studies](https://db.tt/XIL02q51)
 
 
 ## Committee membership
 [Current](https://www.mytrb.org/CommitteeDetails.aspx?CMTID=1182) —
-[2012](/members/2012) —
+previous membership in [2012](/members/2012) —
 [2006](/members/2006)
 
 - [**Awards**](/awards) given by the committee.
@@ -45,4 +66,4 @@ Presentation slides and posters are organized by session number. In some years, 
 
 -----
 
-Have something to share, or an idea for this site? Contact Chair [Paul Leiby](mailto:leiby@ornl.gov), Secretary [Dr. Rebecca Dodder](mailto:dodder.rebecca@epa.gov) or Communications Coordinator [Paul N Kishimoto](mailto:pnk@mit.edu).
+Have something to share, or an idea for this site? Contact Chair [Paul Leiby](mailto:leiby@ornl.gov), Secretary [Dr. Rebecca Dodder](mailto:dodder.rebecca@epa.gov) or Communications Coordinator [Paul N Kishimoto](mailto:pnk@mit.edu) — or all three, at [mail@trbenergy.org](mailto:mail@trbenergy.org).

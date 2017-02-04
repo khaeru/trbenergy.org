@@ -23,7 +23,7 @@ PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}/index.html'
 
 # Theme options
-THEME = 'themes/pelican-bootstrap3'
+THEME = 'pelican-bootstrap3'
 DISPLAY_PAGES_ON_MENU = True
 HIDE_SIDEBAR = True
 
