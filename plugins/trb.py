@@ -23,13 +23,11 @@ class TRBGenerator(CachingGenerator):
         tables = ['members', 'sessions', 'presentations']
         if settings['data_source'] == 'google_drive':
             # Connect to the spreadsheet containing the presentations data
-            import json
             import gspread
-            from oauth2client.client import SignedJwtAssertionCredentials
-            json_key = json.load(open(settings['data_auth']))
-            credentials = SignedJwtAssertionCredentials(
-                json_key['client_email'], json_key['private_key'].encode(),
-                ['https://spreadsheets.google.com/feeds'])
+            from oauth2client.service_account import ServiceAccountCredentials
+            credentials = ServiceAccountCredentials.from_json_keyfile_name(
+                settings['data_auth'],
+                scopes=['https://spreadsheets.google.com/feeds'])
             conn = gspread.authorize(credentials)
             workbook = conn.open_by_key(settings['google_drive_key'])
             for t in tables:
