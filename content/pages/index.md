@@ -13,13 +13,16 @@ ADC70 is within the *ADC00* Energy & Environment section of the *AD000* Planning
 
 - **ADC70(1)** International Aspects of Transportation Energy.
     - Chairs: [Lew Fulton](mailto:lmfulton@ucdavis.edu), [Drew Kodjak](mailto:drew@theicct.org).
-- **ADC70(2)** Climate Change
+- **ADC70(2)** Climate Change.
     - A joint subcommittee with [ADC80 Alternative Transportation Fuels & Technologies](http://www.trb.org/ADC80/ADC80.aspx) and [ADD40 Transportation & Sustainability](http://www.trb.org/ADD40/ADD40.aspx).
     - Chairs: [Rich Baldauf](mailto:Baldauf.Richard@epa.gov), [Adam Millard-Ball](mailto:adammb@ucsc.edu).
-- **ADC70(3)** Energy & Demand Implications of Connected & Automated Vehicles
+- **ADC70(3)** Energy & Demand Implications of Connected & Automated Vehicles.
     - A joint subcommittee with [AHB30 Vehicle-Highway Automation
 ](http://www.trb.org/AHB30/AHB30.aspx).
     - Chair: [Don MacKenzie](mailto:dwhm@uw.edu).
+- **ADB40(2)** Integrated Transport Modeling.
+    - A joint subcommittee with [ADB40 Transportation Demand Forecasting](http://www.trb.org/ADB40/ADB40.aspx).
+    - Chairs: [Anand Gopal](mailto:ARGopal@lbl.gov), [Abdul Pinjari](mailto:apinjari@usf.edu)
 
 ## Presentations & documents
 
@@ -27,7 +30,7 @@ Please [**upload**](https://www.dropbox.com/request/DQFNEDy3jaAWCjTXGAxh) your p
 
 ### 2017 Annual Meeting
 - [Presentation slides](http://amonline.trb.org/2017-subject-index) — select "Energy".
-- ADC70 [meeting agenda](https://www.dropbox.com/s/nhfi0uwp9zu2dbq/2017%20ADC70%20agenda.pdf?dl=0)
+- ADC70 meeting [agenda](https://www.dropbox.com/s/nhfi0uwp9zu2dbq/2017%20ADC70%20agenda.pdf?dl=0), [minutes](https://www.dropbox.com/s/romcf4q52npm5xx/?dl=0)
     - ADC70(2) [meeting agenda](https://www.dropbox.com/s/l3dsrxkigy9hnb7/2017%20ADC70%282%29%20agenda.pdf?dl=0)
 
 ### Previous Annual Meetings
