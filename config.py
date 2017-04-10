@@ -39,35 +39,7 @@ RELATIVE_URLS = True
 PLUGINS = [plugins.trb]
 TRB = private_settings.TRB
 
-
-# See
-# https://github.com/getpelican/pelican-themes/issues/460#issuecomment-269821765
-class i18n(object):
-    # looks for translations in
-    # {LOCALE_DIR}/{LANGUAGE}/LC_MESSAGES/{DOMAIN}.mo
-    # if not present, falls back to default
-
-    DOMAIN = 'messages'
-    LOCALE_DIR = '{THEME}/translations'
-    LANGUAGES = ['de']
-    NEWSTYLE = True
-
-    __name__ = 'i18n'
-
-    def register(self):
-        from pelican.signals import generator_init
-        generator_init.connect(self.install_translator)
-
-    def install_translator(self, generator):
-        import gettext
-        try:
-            translator = gettext.translation(
-                self.DOMAIN,
-                self.LOCALE_DIR.format(THEME=THEME),
-                self.LANGUAGES)
-        except (OSError, IOError):
-            translator = gettext.NullTranslations()
-        generator.env.install_gettext_translations(translator, self.NEWSTYLE)
-
+# See https://github.com/getpelican/pelican-themes/issues/460
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
-PLUGINS.append(i18n())
+PLUGIN_PATHS = ['../other/pelican-plugins']
+PLUGINS.append('i18n_subsites')
