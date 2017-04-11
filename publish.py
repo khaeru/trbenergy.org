@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from config import *
 
-SITEURL = 'http://trbenergy.org'
+SITEURL = 'https://trbenergy.org'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

@@ -43,3 +43,8 @@ TRB = private_settings.TRB
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 PLUGIN_PATHS = ['../other/pelican-plugins']
 PLUGINS.append('i18n_subsites')
+
+STATIC_PATHS = ['extra']
+EXTRA_PATH_METADATA = {
+    'extra/htaccess': {'path': '.htaccess'},
+    }
