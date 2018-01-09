@@ -26,16 +26,23 @@ ADC70 is within the *ADC00* Energy & Environment section of the *AD000* Planning
 
 ## Presentations & documents
 
-Please [**upload**](https://www.dropbox.com/request/DQFNEDy3jaAWCjTXGAxh) your presentation slides, posters and handouts from the 2017 Annual Meeting!
+Please [**upload**](https://www.dropbox.com/request/9osf4AY3sgzEl8tLrsju) your presentation slides, posters and handouts from the 2018 Annual Meeting!
 
-### 2017 Annual Meeting
-- [Presentation slides](http://amonline.trb.org/2017-subject-index) — select "Energy".
-- ADC70 meeting [agenda](https://www.dropbox.com/s/nhfi0uwp9zu2dbq/2017%20ADC70%20agenda.pdf?dl=0), [minutes](https://www.dropbox.com/s/romcf4q52npm5xx/?dl=0)
-    - ADC70(2) [meeting agenda](https://www.dropbox.com/s/l3dsrxkigy9hnb7/2017%20ADC70%282%29%20agenda.pdf?dl=0)
+### 2018 Annual Meeting
+- [Presentations and papers](http://amonline.trb.org/2018-subject-index) — select “Energy”.
+- ADC70 meeting [agenda ](https://www.dropbox.com/s/6lu5i1u5lsgaoly/2018%20ADC70%20agenda.pdf?dl=0)
+  - ADC70(2) meeting [agenda](https://www.dropbox.com/s/t5wg10kz553ctb7/2018%20ADC70%282%29%20agenda.pdf?dl=0)
 
-### Previous Annual Meetings
+### Archived presentations
+
+Since 2015, presentations are available via the Annual Meeting Online website for meeting attendees. (Presentations and papers for meetings back to 2011 are also available.)
+
+[2017](http://amonline.trb.org/2017-subject-index) —
 [2016](http://amonline.trb.org/2016-subject-index) —
-[2015](http://amonline.trb.org/2015-subject-index) —
+[2015](http://amonline.trb.org/2015-subject-index)
+
+For ADC70-sponsored sessions in earlier years, presentation slides and posters are available on this site, organized by session number. In some years, documents are also available from meetings of ADC70 and its subcommittees.
+
 [2014](/presentations/2014) —
 [2013](/presentations/2013) —
 [2012](/presentations/2012) —
@@ -49,22 +56,24 @@ Please [**upload**](https://www.dropbox.com/request/DQFNEDy3jaAWCjTXGAxh) your p
 [2004](/presentations/2004) —
 [2003](/presentations/2003)
 
-Presentation slides and posters are organized by session number. In some years, documents are also available from meetings of ADC70 and its subcommittees.
+### Agendas & minutes
+
+- 2017 ADC70 meeting [agenda](https://www.dropbox.com/s/nhfi0uwp9zu2dbq/2017%20ADC70%20agenda.pdf?dl=0), [minutes](https://www.dropbox.com/s/romcf4q52npm5xx/?dl=0)
+   - ADC70(2) [meeting agenda](https://www.dropbox.com/s/l3dsrxkigy9hnb7/2017%20ADC70%282%29%20agenda.pdf?dl=0)
 
 ### Other meetings & documents
 - [2010 Environment & Energy Conference](/2010-enviro-energy-conf)
 - Asilomar [2015](https://its.ucdavis.edu/news-and-events/conferences-2/asilomar-conference-publications/2015-asilomar-conference/), [2013](http://its.ucdavis.edu/news-and-events/conferences-2/asilomar-conference-publications/2013-asilomar-biennial-conference/), [2007](http://its.ucdavis.edu/news-and-events/conferences-2/asilomar-conference-publications/2007-asilomar/) →`its.ucdavis.edu`
 - 2003: [Asilomar proposal](https://db.tt/pWOVzxwB) — [fuel cycles studies](/fuel-cycles) — ["big issues" policy studies](https://db.tt/XIL02q51)
 
-
 ## Committee membership
 [Current](https://www.mytrb.org/CommitteeDetails.aspx?CMTID=1182) —
-previous membership in [2012](/members/2012) —
+previous membership in [2017](/members/2017) — [2012](/members/2012) —
 [2006](/members/2006)
 
 - [**Awards**](/awards) given by the committee.
 - [**Photos**](/photos) of committee meetings and other activities.
-- Committee Members *and* Friends of the committee can access a private [**discussion group**]({filename}discussion.md) on the web or by e-mail.
+- Committee Members *and* Friends of the committee can access a private [**mailing list**]({filename}discussion.md) with archives on the web.
 - [**ADC70 page**](http://www.trb.org/ADC70/ADC70.aspx) on the main TRB website, with links to official resources.
 
 -----
