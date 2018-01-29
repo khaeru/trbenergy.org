@@ -31,7 +31,8 @@ Please [**upload**](https://www.dropbox.com/request/9osf4AY3sgzEl8tLrsju) your p
 ### 2018 Annual Meeting
 - [Presentations and papers](http://amonline.trb.org/2018-subject-index) — select “Energy”.
 - ADC70 meeting [agenda ](https://www.dropbox.com/s/6lu5i1u5lsgaoly/2018%20ADC70%20agenda.pdf?dl=0)
-  - ADC70(2) meeting [agenda](https://www.dropbox.com/s/t5wg10kz553ctb7/2018%20ADC70%282%29%20agenda.pdf?dl=0)
+    - ADC70(2) meeting [agenda](https://www.dropbox.com/s/t5wg10kz553ctb7/2018%20ADC70%282%29%20agenda.pdf?dl=0)
+    - ADC70(3) meeting [agenda](https://www.dropbox.com/s/mpv1wn8pqnfg9ix/2018%20ADC70%283%29%20agenda.pdf?dl=0)
 
 ### Archived presentations
 
@@ -59,9 +60,11 @@ For ADC70-sponsored sessions in earlier years, presentation slides and posters a
 ### Agendas & minutes
 
 - 2017 ADC70 meeting [agenda](https://www.dropbox.com/s/nhfi0uwp9zu2dbq/2017%20ADC70%20agenda.pdf?dl=0), [minutes](https://www.dropbox.com/s/romcf4q52npm5xx/?dl=0)
-   - ADC70(2) [meeting agenda](https://www.dropbox.com/s/l3dsrxkigy9hnb7/2017%20ADC70%282%29%20agenda.pdf?dl=0)
+    - ADC70(2) [meeting agenda](https://www.dropbox.com/s/l3dsrxkigy9hnb7/2017%20ADC70%282%29%20agenda.pdf?dl=0)
 
 ### Other meetings & documents
+
+- Triennial Strategic Plans: [2013](https://www.dropbox.com/s/xytkchuwrubjdh2/2013-04-01%20strategic%20plan.pdf?dl=0)
 - [2010 Environment & Energy Conference](/2010-enviro-energy-conf)
 - Asilomar [2015](https://its.ucdavis.edu/news-and-events/conferences-2/asilomar-conference-publications/2015-asilomar-conference/), [2013](http://its.ucdavis.edu/news-and-events/conferences-2/asilomar-conference-publications/2013-asilomar-biennial-conference/), [2007](http://its.ucdavis.edu/news-and-events/conferences-2/asilomar-conference-publications/2007-asilomar/) →`its.ucdavis.edu`
 - 2003: [Asilomar proposal](https://db.tt/pWOVzxwB) — [fuel cycles studies](/fuel-cycles) — ["big issues" policy studies](https://db.tt/XIL02q51)
