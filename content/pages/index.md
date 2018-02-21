@@ -30,7 +30,7 @@ Please [**upload**](https://www.dropbox.com/request/9osf4AY3sgzEl8tLrsju) your p
 
 ### 2018 Annual Meeting
 - [Presentations and papers](http://amonline.trb.org/2018-subject-index) — select “Energy”.
-- ADC70 meeting [agenda ](https://www.dropbox.com/s/6lu5i1u5lsgaoly/2018%20ADC70%20agenda.pdf?dl=0)
+- ADC70 meeting [agenda ](https://www.dropbox.com/s/6lu5i1u5lsgaoly/2018%20ADC70%20agenda.pdf?dl=0), [minutes](https://www.dropbox.com/s/p36dmyc0jnabfpa/2018%20ADC70%20minutes.pdf?dl=0)
     - ADC70(2) meeting [agenda](https://www.dropbox.com/s/t5wg10kz553ctb7/2018%20ADC70%282%29%20agenda.pdf?dl=0)
     - ADC70(3) meeting [agenda](https://www.dropbox.com/s/mpv1wn8pqnfg9ix/2018%20ADC70%283%29%20agenda.pdf?dl=0)
 

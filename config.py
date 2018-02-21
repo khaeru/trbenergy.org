@@ -5,8 +5,8 @@ import os
 import sys
 sys.path.append(os.curdir)
 
-import plugins.trb
-import private as private_settings
+import plugins.trb  # noqa: E402
+import private as private_settings  # noqa: E402
 
 # Site information
 AUTHOR = 'TRB ADC70'
