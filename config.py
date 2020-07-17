@@ -18,6 +18,9 @@ TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
 
 # Clean URLs
+ARTICLE_URL = 'news/{date:%Y}-{date:%m}-{date:%d}'
+ARTICLE_SAVE_AS = 'news/{date:%Y}-{date:%m}-{date:%d}/index.html'
+INDEX_SAVE_AS = 'news/index.html'
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}/index.html'
 
@@ -25,6 +28,10 @@ PAGE_SAVE_AS = '{slug}/index.html'
 THEME = 'pelican-bootstrap3'
 DISPLAY_PAGES_ON_MENU = True
 HIDE_SIDEBAR = True
+MENUITEMS = [
+    ('News', '/news'),
+    ]
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
