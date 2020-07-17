@@ -1,5 +1,6 @@
-#!/usr/bin/env python3
+from pathlib import Path
 import os
+import logging
 
 import pandas as pd
 from pelican import signals
@@ -12,11 +13,22 @@ PAGE_TITLES = {
     }
 
 
+log = logging.getLogger(__name__)
+
+
 class TRBGenerator(CachingGenerator):
     def __init__(self, *args, **kwargs):
-        super(TRBGenerator, self).__init__(*args, **kwargs)
+        # Add the path to the templates used by this generator
+        kwargs["settings"].setdefault("THEME_TEMPLATES_OVERRIDES", [])
+        kwargs["settings"]["THEME_TEMPLATES_OVERRIDES"].append(
+            str(Path(__file__).parent / "trb")
+        )
 
-        settings = kwargs['settings']['TRB']
+        # Use the parent class to initialize
+        super().__init__(*args, **kwargs)
+
+        # Retrieve plugin-specific settings
+        settings = self.settings["TRB"]
 
         # Load data
         data = {}
@@ -58,35 +70,24 @@ class TRBGenerator(CachingGenerator):
 
         template = self.get_template('page')
 
-        print('TRB plugin: committee ', end='')
+        log.info('TRB plugin: committee ')
         for year, members in self.data['members'].groupby('Year'):
             fn = os.path.join('members', str(year), 'index.html')
             page = _pseudo_page('members', year=year, members=members)
             writer.write_file(fn, template, self.context, page=page,
                               relative_urls=self.settings['RELATIVE_URLS'])
-            print(year, end=' ')
-        print('.')
 
-        print('TRB plugin: presentations ', end='')
+        log.info('TRB plugin: presentations ')
         for year, p in self.data['all'].groupby('Year'):
             fn = os.path.join('presentations', str(year),  'index.html')
             page = _pseudo_page('presentations', year=year, presentations=p)
             writer.write_file(fn, template, self.context, page=page,
                               relative_urls=self.settings['RELATIVE_URLS'])
-            print(year, end=' ')
-        print('.')
 
 
 def callback(pelican):
     return TRBGenerator
 
 
-def add_template_path(pelican):
-    pelican.settings['EXTRA_TEMPLATES_PATHS'].append(
-        os.path.join(os.path.dirname(__file__), 'trb')
-        )
-
-
 def register():
-    signals.initialized.connect(add_template_path)
     signals.get_generators.connect(callback)
