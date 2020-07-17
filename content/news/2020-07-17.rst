@@ -1,0 +1,16 @@
+2020-07-17 updates
+******************
+
+New paper(s)
+============
+
+AMS30 friend `Fan Tong <tongfanchina@gmail.com>`_ (LBNL) shared a paper published 2020-07-13 in *Environmental Research Letters*:
+
+Title
+   What are the best combinations of fuel-vehicle technologies to mitigate climate change and air pollution effects across the United States?
+
+DOI
+   `10.1088/1748-9326/ab8a85 <https://doi.org/10.1088/1748-9326/ab8a85>`_
+
+Abstract:
+    The transportation sector is the largest contributor to CO2 emissions and a major source of criteria air pollutants in the United States. The impact of climate change and that of air pollution differ in space and time, but spatially-explicit, systematic evaluations of the effectiveness of alternative fuels and advanced vehicle technologies in mitigating both climate change and air pollution are lacking. In this work, we estimate the life cycle monetized damages due to greenhouse gas emissions and criteria air pollutant emissions for different types of passenger-moving vehicles in the United States. We find substantial spatial variability in the monetized damages for all fuel-vehicle technologies studied. None of the fuel-vehicle technologies leads simultaneously to the lowest climate change damages and the lowest air pollution damages across all U.S. counties. Instead, the fuel-vehicle technology that best mitigates climate change in one region is different from that for the best air quality (i.e. the trade-off between decarbonization and air pollution mitigation). For example, for the state of Pennsylvania, battery-electric cars lead to the lowest population-weighted-average climate change damages (a climate change damage of 0.87 cent/mile and an air pollution damage of 1.71 cent/mile). In contrast, gasoline hybrid-electric cars lead to the lowest population-weighted-average air pollution damages (a climate change damage of 0.92 cent/mile and an air pollution damage of 0.77 cent/mile). Vehicle electrification has great potential to reduce climate change damages but may increase air pollution damages substantially in regions with high shares of coal-fired power plants compared to conventional vehicles. However, clean electricity grid could help battery electric vehicles to achieve low damages in both climate change and air pollution.
