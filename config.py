@@ -5,11 +5,10 @@ import os
 import sys
 sys.path.append(os.curdir)
 
-import plugins.trb  # noqa: E402
 import private as private_settings  # noqa: E402
 
 # Site information
-AUTHOR = 'TRB ADC70'
+AUTHOR = 'TRB AMS30'
 SITENAME = 'Transportation Energy Committee'
 SITEURL = 'http://trbenergy.org'
 
@@ -36,12 +35,13 @@ TRANSLATION_FEED_ATOM = None
 RELATIVE_URLS = True
 
 # Load the plugin for TRB committee members and presentations
-PLUGINS = [plugins.trb]
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['trb']
 TRB = private_settings.TRB
 
 # See https://github.com/getpelican/pelican-themes/issues/460
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
-PLUGIN_PATHS = ['../other/pelican-plugins']
+PLUGIN_PATHS.append('../other/pelican-plugins')
 PLUGINS.append('i18n_subsites')
 
 STATIC_PATHS = ['extra']
