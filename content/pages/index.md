@@ -7,19 +7,28 @@ AMS30 is the Transportation Energy Committee of the [Transportation Research Boa
 
 AMS30 is tasked to consider energy efficiency, use and policy in passenger and freight transportation; resulting impacts on energy consumption, energy security and the environment; greenhouse gas emissions; and related public concerns.
 
+### 2021 Annual Meeting
+
+- Read a [welcome message from the Chair of AMS30]({filename}/news/2021-01-05.rst).
+- Bookmark [**https://trbenergy.org/2021**](https://trbenergy.org/2021) or click on “2021” in the menu above.
+
 ### Section & subcommittees
 
 AMS30 is within the *AMS00* Transportation & Sustainability section of the *AM000* Transportation Sustainability & Resilience group.
 It has several subcommittees; some of these are joint with other committees:
 
 - **AMS30(1)** International Aspects of Transportation Energy.
-    - Chairs: [Lew Fulton](mailto:lmfulton@ucdavis.edu), [Drew Kodjak](mailto:drew@theicct.org).
+    - Chair: [Shiqi (Shawn) Ou](mailto:ous1@ornl.gov).
 - **AMS30(2)** Climate Change.
-    - A joint subcommittee with [AMS30 Alternative Transportation Fuels & Technologies](http://www.trb.org/ADC80/ADC80.aspx) and [AMS10 Air Quality and Greenhouse Gas Mitigation](http://www.trb.org/ADC20/ADC20.aspx).
+    - A joint subcommittee with [AMS40 Alternative Transportation Fuels & Technologies](http://www.trb.org/ADC80/ADC80.aspx) and [AMS10 Air Quality and Greenhouse Gas Mitigation](http://www.trb.org/ADC20/ADC20.aspx).
     - Chairs: [Paul Natsuo Kishimoto](mailto:paul.kishimoto@iiasa.ac.at), [Stephen Zoepf](mailto:szoepf@stanford.edu).
+    - Subcommittee website: [https://trbclimate.org](https://trbclimate.org)
 - **AMS30(3)** Energy & Demand Implications of Connected & Automated Vehicles.
     - A joint subcommittee with [ACP30 Vehicle-Highway Automation](http://www.trb.org/AHB30/AHB30.aspx).
-    - Chair: [Don MacKenzie](mailto:dwhm@uw.edu).
+    - Chair: [Austin Brown](mailto:dokbrown@gmail.com).
+- **AMS10(1)** Mitigation and Policy Analysis
+    - A joint subcommittee with [AMS10 Air Quality and Greenhouse Gas Mitigation](http://www.trb.org/ADC20/ADC20.aspx).
+    - Chair: John Davies.
 - **AEP50(2)** Integrated Transport Modeling.
     - A joint subcommittee with [AEP50 Transportation Demand Forecasting](http://www.trb.org/ADB40/ADB40.aspx).
     - Chairs: [Anand Gopal](mailto:ARGopal@lbl.gov), [Abdul Pinjari](mailto:apinjari@usf.edu)
