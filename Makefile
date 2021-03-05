@@ -1,4 +1,4 @@
-PY?=python3
+PY?=python
 PELICAN?=pelican
 PELICANOPTS=
 
@@ -8,9 +8,9 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/config.py
 PUBLISHCONF=$(BASEDIR)/publish.py
 
-SSH_HOST=web600.webfaction.com
-SSH_TARGET_DIR=~/trbenergy
-SSH_USER?=$(USER)
+SSH_USER?=laecdymy
+SSH_HOST=ftp.lae.cdy.mybluehost.me
+SSH_TARGET_DIR=~/public_html/trbenergy
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -20,6 +20,13 @@ endif
 RELATIVE ?= 0
 ifeq ($(RELATIVE), 1)
 	PELICANOPTS += --relative-urls
+endif
+
+GO =? 0
+ifeq ($(GO), 1)
+	RSYNC_OPTS =
+else
+	RSYNC_OPTS = --dry-run
 endif
 
 help:
@@ -78,7 +85,7 @@ ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 rsync_upload: publish
-	rsync -cCPrvz --delete --filter=". .rsync-filter" $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
+	rsync -cCPrvz $(RSYNC_OPTS) --delete --filter=". .rsync-filter" $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish ssh_upload rsync_upload
