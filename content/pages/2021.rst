@@ -1,0 +1,142 @@
+AMS30 events at the 2021 Annual Meeting
+***************************************
+
+:menulabel: 2021
+:slug: 2021
+
+.. |br| raw:: html
+
+  <br/>
+
+Read a `welcome message from AMS30's Chair, Dr. Rebecca Dodder <{filename}/news/2021-01-05.rst>`_.
+
+Selected events from TRB staff:
+
+- `All events in AMS00 Sustainability Section <http://onlinepubs.trb.org/onlinepubs/dva/CG/TRB2021AMSustainabilitySection.pdf>`_ (PDF)
+- `Sessions related to Energy and Sustainability <http://onlinepubs.trb.org/onlinepubs/am/2021/CuratedEnergy.pdf>`_ (PDF)
+
+Detailed information and guidance:
+
+- `Information for Attendees <http://www.trb.org/AnnualMeeting/AMAttendees.aspx>`_.
+- `Information for Presenters <http://www.trb.org/AnnualMeeting/AMPresenters.aspx>`_.
+- `Information for Presiding Officers <http://www.trb.org/AnnualMeeting/AMPresidingOfficers.aspx>`_.
+
+⭐️ = AMS30 is the primary sponsor
+
+.. list-table::
+   :class: table table-striped
+   :widths: 20 80
+   :header-rows: 1
+
+   * - Date & time
+     - Type, description, presiding officer(s), agenda
+
+   * - **Friday 08** Jan |br|
+       4–5:30 pm EST |br|
+       21:00–22:30 UTC
+
+       → `Online Program <https://annualmeeting.mytrb.org/OnlineProgram/Details/15250>`__
+     - Subcommittee meeting: **AMS30(2) Climate Change** ⭐️ |br|
+       Joint Subcommittee of AMS30, AMS10, AMS40
+
+       Paul Kishimoto, International Institute for Applied Systems Analysis (IIASA) |br|
+       Stephen Zoepf, Ellis & Associates
+
+       `Agenda <{static}/file/2021-01-08_AMS30(2)_agenda.pdf>`__ (PDF) |br|
+       `Submit a video <https://trbclimate.org/2021-video>`_ with your “One Big Idea” for decarbonizing transport.
+
+   * - **Monday 11** Jan |br|
+       4–5:30 pm EST |br|
+       21:00–22:30 UTC
+
+       → `Online Program <https://annualmeeting.mytrb.org/OnlineProgram/Details/15244>`__
+     - Subcommittee meeting: **AMS10(1) Mitigation and Policy Analysis** |br|
+       Joint Subcommittee of AMS10, AMS30
+
+       John Davies, Federal Highway Administration (FHWA)
+
+   * - **Wednesday 13** Jan |br|
+       10–11:30 am EST |br|
+       15:00–16:30 UTC
+
+       → `Online Program <https://annualmeeting.mytrb.org/OnlineProgram/Details/15249>`__
+     - Subcommittee meeting: **AMS30(1) International Aspects of Transportation Energy** ⭐️ |br|
+       Joint Subcommittee of AMS30, AMS40
+
+       Shiqi (Shawn) Ou, Oak Ridge National Laboratory
+
+       `Agenda <{static}/file/2021-01-13_AMS30(1)_agenda.pdf>`__ (PDF)
+
+   * - **Thursday 14** Jan |br|
+       4–5:30 PM EST |br|
+       21:00–22:30 UTC
+
+       → `Online Program <https://annualmeeting.mytrb.org/OnlineProgram/Details/15251>`__
+     - Subcommittee meeting: **AMS30(3) Energy and Demand Implications of Connected and Automated Vehicles** ⭐️ |br|
+       Joint Subcommittee of AMS30, ACP30
+
+       Austin Brown, University of California, Davis
+
+   * - **Friday 15** Jan |br|
+       12–1:30 pm EST |br|
+       17:00–18:30 UTC
+
+       → `Online Program <https://annualmeeting.mytrb.org/OnlineProgram/Details/15248>`__
+     - Committee meeting: **AMS30 Transportation Energy**
+
+       Rebecca Dodder, U.S. Environmental Protection Agency (EPA)
+
+       `Agenda <{static}/file/2021-01-15_AMS30_agenda.pdf>`__ (PDF)
+
+   * - **Friday 22** Jan |br|
+       10 am–1 pm EST |br|
+       15:00–18:00 UTC
+
+       → `Online Program <https://annualmeeting.mytrb.org/OnlineProgram/Details/15100>`__
+     - Workshop #1036: **Pandemics and Public Health in Integrated Transport Modeling** ⭐️
+
+       Mehrnaz Ghamami, Michigan State University |br|
+       Abdul Pinjari, Indian Institute of Science |br|
+       Srinath Ravulaparthy, Lawrence Berkeley National Laboratory
+
+       `Flyer <{static}/file/2021-01-22_Workshop_1036.pdf>`__ (PDF)
+
+   * - Friday 22 Jan |br|
+       2–5 pm EST |br|
+       19:00–22:00 UTC
+
+       → `Online Program <https://annualmeeting.mytrb.org/OnlineProgram/Details/15102>`__
+     - Workshop #1047: **Electrification of Fleet and Rideshare Vehicles**
+
+       Alan Jenn, Institute of Transportation Studies (ITS) |br|
+       Prachi Vakharia, Massachusetts Bay Transportation Authority (MBTA)
+
+   * - **Monday 25** Jan |br|
+       10–11:30 am EST |br|
+       15:00–16:30 UTC
+
+       → `Online Program <https://annualmeeting.mytrb.org/OnlineProgram/Details/15630>`__
+     - Lectern Session #1058: **Decarbonization Challenges and Opportunities in Marine Transportation**
+
+       Eleftherios Sdoukopoulos, University of Piraeus
+
+   * - Monday 25 Jan |br|
+       2:30–4 pm EST |br|
+       19:30–21:00 UTC
+
+       → `Online Program <https://annualmeeting.mytrb.org/OnlineProgram/Details/15778>`__
+     - Poster Session #1120: **Current Issues in Transportation Energy** ⭐️
+
+       Alan Jenn, Institute of Transportation Studies (ITS) |br|
+       Stephen Zoepf, Ellis & Associates
+
+   * - **Tuesday 26** Jan |br|
+       10–11:30 am EST |br|
+       15:00–16:30 UTC
+
+       → `Online Program <https://annualmeeting.mytrb.org/OnlineProgram/Details/15519>`__
+     - Lectern Session #1150: **Greenhouse Gas Reduction Pathways: Where We Are Now and Plans For Long-Term Mitigation** ⭐️
+
+       Jonn Axsen, Simon Fraser University
+
+       `Flyer <{static}/file/2020-01-26_Session_1150.pdf>`__ (PDF)
