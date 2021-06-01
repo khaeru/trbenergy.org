@@ -1,0 +1,51 @@
+Call for papers: Transportation Energy Transitions
+**************************************************
+
+:tags: cfp, 2022
+:status: draft
+
+The TRB Transportation Energy Committee (AMS30) seeks papers on a broad range of topics related to Transportation Energy Transitions.
+Of particular interest are papers that report on transportation energy transitions in the context of climate mitigation goals, including the timing, pace, and pathways for changes in fuels and fleets.
+While a large share of submissions are typically focused on light-duty vehicle fleet and energy use, the committee also encourages authors to submit new papers on the energy use and efficiency in medium-duty, heavy-duty, rail, aviation, and marine modes.
+Within the scope of this call for papers are studies examining the implications for upstream energy markets—petroleum, electric power, natural gas, renewable fuels—in the context of the broader energy system.
+Authors are encouraged to consider a broad range of social—including economic and equity—and environmental aspects of changing transport energy systems,  including both impacts of energy production and use on these phenomena, and vice versa.
+
+In addition to consideration for review and publication in TRR, the committee will organize presentation and podium sessions at the 2022 Annual Meeting (January 9–13, 2022).
+High quality papers relevant to subcommittee work can also be highlighted during committee and subcommittee meetings.
+Where appropriate, this committee will also work with other committees to identify papers of common interest.
+
+Eligible papers can address a broad range of topics related to transportation energy and energy transitions.
+These include, but are not limited to, the following topic areas:
+
+1. Transportation energy and climate transitions, for instance as related to decarbonization or carbon neutrality policies and targets.
+2. Changes in global, inter- and trans-national transportation energy systems, beyond the United States.
+3. Social and behavioral aspects of choices regarding transportation fuels, efficiency, and vehicles, as well as energy impacts of reduced and avoided transportation activity.
+4. Consumer preferences and trends in a changing new and used technology market, including affordability and equity dimensions, and policy related thereto.
+5. Advances in fuel economy technologies and performance in light and heavy-duty vehicles fleets, including test cycles, real-world performance, and impacts of driver behavior and eco-driving.
+6. Energy impacts of connected and automated vehicles (CAVs).
+7. Energy impacts of changes in transportation activity or demand, mode choice, and ‘new’ mobility options including shared vehicles (e.g., cars, e-scooters, bikes), ride-sharing, and ride-hailing
+8. Energy use and implications of emerging technologies for urban delivery.
+9. Energy security and resilience impacts of changing vehicle fleets and energy infrastructure.
+
+Co-sponsoring (sub)committees
+=============================
+
+- AMS10 - Standing Committee Transportation Air Quality and Greenhouse Gases
+- AMS40 - Standing Committee Alternative Transportation Fuels and Technologies
+- AMS30(1) – Subcommittee on International Aspects of Transportation
+- AMS30(2) - Subcommittee on Climate Change
+- AMS30(3) – Subcommittee on Energy and Environmental Aspects of Connected and Automated Vehicles
+
+Notes
+=====
+
+Authors interested in submitting papers are advised to check the `Paper Author Resource Page`_ and read `Writing a Paper for TRB`_ and `Submitting a Paper to TRB`_.
+Authors submitting papers in response to this Call for Papers should submit full papers for peer review to the Transportation Research Board online at https://www.TRB.org/AnnualMeeting.
+Paper submission is open from June 1 to August 1.
+The paper submission website will close when it is no longer August 1 anywhere in the world, after which no revisions are accepted.
+When submitting please indicate the sponsoring committee name or the Call for Papers title on the papers submission form.
+Please contact the Call for Papers organizer if you are submitting a paper or need additional information.
+
+.. _`Paper Author Resource Page`: http://www.trb.org/AnnualMeeting/AMPaperAuthorResource.aspx
+.. _`Writing a Paper for TRB`: http://onlinepubs.trb.org/onlinepubs/am/2015/WritingForTheTRRecord.pdf
+.. _`Submitting a Paper to TRB`: http://onlinepubs.trb.org/onlinepubs/am/2015/WhatHappensAfterwards.pdf
