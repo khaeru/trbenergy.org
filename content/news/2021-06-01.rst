@@ -2,11 +2,10 @@ Call for papers: Transportation Energy Transitions
 **************************************************
 
 :tags: cfp, 2022
-:status: draft
 
 The TRB Transportation Energy Committee (AMS30) seeks papers on a broad range of topics related to Transportation Energy Transitions.
 Of particular interest are papers that report on transportation energy transitions in the context of climate mitigation goals, including the timing, pace, and pathways for changes in fuels and fleets.
-While a large share of submissions are typically focused on light-duty vehicle fleet and energy use, the committee also encourages authors to submit new papers on the energy use and efficiency in medium-duty, heavy-duty, rail, aviation, and marine modes.
+While a large share of submissions are typically focused on light-duty vehicle fleet and energy use, the committee also encourages authors to submit new papers on energy use and efficiency in medium-duty, heavy-duty, rail, aviation, and marine modes.
 Within the scope of this call for papers are studies examining the implications for upstream energy markets—petroleum, electric power, natural gas, renewable fuels—in the context of the broader energy system.
 Authors are encouraged to consider a broad range of social—including economic and equity—and environmental aspects of changing transport energy systems,  including both impacts of energy production and use on these phenomena, and vice versa.
 
@@ -39,13 +38,19 @@ Co-sponsoring (sub)committees
 Notes
 =====
 
-Authors interested in submitting papers are advised to check the `Paper Author Resource Page`_ and read `Writing a Paper for TRB`_ and `Submitting a Paper to TRB`_.
-Authors submitting papers in response to this Call for Papers should submit full papers for peer review to the Transportation Research Board online at https://www.TRB.org/AnnualMeeting.
-Paper submission is open from June 1 to August 1.
-The paper submission website will close when it is no longer August 1 anywhere in the world, after which no revisions are accepted.
-When submitting please indicate the sponsoring committee name or the Call for Papers title on the papers submission form.
-Please contact the Call for Papers organizer if you are submitting a paper or need additional information.
+Authors submitting papers in response to this Call for Papers should:
 
-.. _`Paper Author Resource Page`: http://www.trb.org/AnnualMeeting/AMPaperAuthorResource.aspx
-.. _`Writing a Paper for TRB`: http://onlinepubs.trb.org/onlinepubs/am/2015/WritingForTheTRRecord.pdf
-.. _`Submitting a Paper to TRB`: http://onlinepubs.trb.org/onlinepubs/am/2015/WhatHappensAfterwards.pdf
+- Check the following pages on the TRB website: `Paper Submission`_, `Paper Author FAQ`_, and `Criteria for Desk Reject`_.
+- Submit full papers for peer review to the Transportation Research Board online at https://www.TRB.org/AnnualMeeting between June 1 and August 1.[1]_
+- Indicate “AMS30 Transportation Energy” and or the CFP title “Transportation Energy Transitions” on the paper submission form.
+- Contact the CFP organizer (mail@trbenergy.org) if you are considering submitting a paper and need additional information.
+
+Paper submission is open from June 1 to August 1, closing when it is no longer August 1 anywhere in the world, after which no submissions or revisions are accepted.
+
+.. _`Paper Submission`: https://trb.secure-platform.com/a/page/TRBPaperReview
+.. _`Paper Author FAQ`: https://trb.secure-platform.com/a/page/TRBPaperReview/trbamfaq
+.. _`Criteria for Desk Reject`: https://cdn.filestackcontent.com/0WJJGiNNSWq30J4yDnYD?CriteriaforDeskRejections.pdf
+
+.. [1] Paper submission closes when “it is no longer August 1 anywhere in the world.”
+   This means 2021-08-02 at 12:00 UTC.
+   After this time, no submissions or revisions are accepted.
