@@ -19,10 +19,9 @@ It has several subcommittees; some of these are joint with other committees:
 
 - **AMS30(1)** International Aspects of Transportation Energy.
     - Chair: [Shiqi (Shawn) Ou](mailto:ous1@ornl.gov).
-- **AMS30(2)** Climate Change.
+- [**AMS30(2)** Climate Change](/climate).
     - A joint subcommittee with [AMS40 Alternative Transportation Fuels & Technologies](http://www.trb.org/ADC80/ADC80.aspx) and [AMS10 Air Quality and Greenhouse Gas Mitigation](http://www.trb.org/ADC20/ADC20.aspx).
-    - Chairs: [Paul Natsuo Kishimoto](mailto:paul.kishimoto@iiasa.ac.at), [Stephen Zoepf](mailto:szoepf@stanford.edu).
-    - Subcommittee website: [https://trbclimate.org](https://trbclimate.org)
+    - Chairs: [Paul Natsuo Kishimoto](mailto:paul.kishimoto@iiasa.ac.at), [Stephen Zoepf](mailto:szoepf@mac.com).
 - **AMS30(3)** Energy & Demand Implications of Connected & Automated Vehicles.
     - A joint subcommittee with [ACP30 Vehicle-Highway Automation](http://www.trb.org/AHB30/AHB30.aspx).
     - Chair: [Austin Brown](mailto:dokbrown@gmail.com).
