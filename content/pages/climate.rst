@@ -99,21 +99,21 @@ Panelists
 
 - Prof. Mihkail Chester — `asu.edu <http://chester.faculty.asu.edu>`_
 
-  - Contributor, NCA5 chapter on Transportation.
+  - Chapter Author, NCA5 chapter on Transportation.
   - Contributing Author, IPCC AR6 WGIII.
 
 - Dr. Rebecca Dodder — `epa.gov <https://www.epa.gov/sciencematters/meet-epa-senior-physical-scientist-dr-rebecca-dodder>`_
 
-  - Contributor, NCA5 chapter on Transportation.
+  - Federal Coordinating Lead Author, NCA5 chapter on Mitigation.
 
 - Dr. Alan Jenn — `its.ucdavis.edu <https://its.ucdavis.edu/people/alan-jenn>`_
 
   - Contributing Author, IPCC AR6 WGIII Chapter 10 (Transport).
-  - Contributor, NCA5 chapter on Transportation.
+  - Chapter Author, NCA5 chapter on Mitigation.
 
 - Dr. Matteo Muratori — `nrel.gov <https://www.nrel.gov/research/staff/matteo-muratori.html>`_
 
-  - Contributor, NCA5 chapter on Transportation.
+  - Chapter Author, NCA5 chapter on Mitigation.
   - Contributing Author, IPCC AR6 WGIII Chapter 6 (Energy systems).
 
 
