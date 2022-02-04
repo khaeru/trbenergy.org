@@ -16,9 +16,9 @@ AMS30(2) is a joint subcommittee under three parent committees: AMS30, AMS10, an
 - `@TRBClimate <https://twitter.com/trbclimate>`_ on Twitter.
 - https://trbclimate.org
 
-.. _2022-02-14:
+.. _2022-02-18:
 
-Friday, February 14, 2022: annual meeting
+Friday, February 18, 2022: annual meeting
 =========================================
 
 Due to COVID-19 restrictions, the in-person meeting of AMS30(2) during the 2022 TRB Annual Meeting was cancelled.
@@ -88,6 +88,10 @@ Introduction
 
 Panelists
 ~~~~~~~~~
+
+- Prof. Anders Hammer Strømman — `ntnu.no <https://www.ntnu.no/ansatte/anders.hammer.stromman>`_
+
+  - Lead Author, IPCC AR6 WGIII Chapter 10 (Transport).
 
 - Prof. Sonia Yeh — `chalmers.se <https://www.chalmers.se/en/Staff/Pages/sonia-yeh.aspx>`_
 
