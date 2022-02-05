@@ -100,7 +100,7 @@ Panelists
 - Prof. Mihkail Chester — `asu.edu <http://chester.faculty.asu.edu>`_
 
   - Chapter Author, NCA5 chapter on Transportation.
-  - Contributing Author, IPCC AR6 WGIII.
+  - Contributing Author, IPCC AR6 WGII Chapter 6 (Cities, settlements and key infrastructure).
 
 - Dr. Rebecca Dodder — `epa.gov <https://www.epa.gov/sciencematters/meet-epa-senior-physical-scientist-dr-rebecca-dodder>`_
 
