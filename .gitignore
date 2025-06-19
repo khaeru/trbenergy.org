@@ -1,7 +1,0 @@
-*.pid
-__pycache__
-cache
-data
-private.py
-output
-themes
